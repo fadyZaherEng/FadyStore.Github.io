@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#081820"
+    tools:context=".ShowNote">
+
+    <TextView
+        android:id="@+id/tv_Note_Title"
+        android:layout_width="wrap_content"
+        android:paddingStart="@dimen/_40sdp"
+        android:paddingEnd="@dimen/_40sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_7sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@drawable/border"
+        android:fontFamily="@font/marko_one"
+        android:gravity="center"
+        android:padding="@dimen/_5sdp"
+        android:text="@string/first_note"
+        android:textAllCaps="false"
+        android:textColor="@color/title_color"
+        android:textSize="@dimen/_15ssp"
+        android:textStyle="bold" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/_1sdp"
+        android:layout_below="@id/tv_Note_Title">
+        <TextView
+            android:layout_width="match_parent"
+            android:paddingStart="@dimen/_5sdp"
+            android:paddingEnd="@dimen/_5sdp"
+            android:paddingBottom="@dimen/_5sdp"
+            android:paddingTop="@dimen/_5sdp"
+            android:layout_margin="@dimen/_1sdp"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textSize="@dimen/_12ssp"
+            android:textAllCaps="false"
+            android:text="@string/title"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:textColor="#F0F0F0"
+            android:id="@+id/tv_Note_Content"/>
+    </ScrollView>
+
+</RelativeLayout>

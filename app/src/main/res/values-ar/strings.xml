@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ملاحظات</string>
+    <string name="first_note">اول ملاحظة</string>
+    <string name="title">العنوان</string>
+    <string name="enter_title">ادخل العنوان</string>
+    <string name="enter_content">ادخل المحتوى</string>
+    <string name="add_note">أضافة ملاحظة</string>
+    <string name="Deletemsg">فشل المسح</string>
+    <string name="delete">مسح</string>
+    <string name="msg">هل انت متاكد؟</string>
+    <string name="deleteMsg">تم المسح بنجاح</string>
+    <string name="addMsg">تمت عملية الاضافة بنجاح</string>
+    <string name="emptyDetails">من فضلك ادخل تفاصيل الملاحظة</string>
+    <string name="s">فشلت عملية الارسال</string>
+    <string name="updateMsg">تحديثك تم بنجاح</string>
+    <string name="readMSG">فشلت قرا~ة البيانات</string>
+    <string name="delete_note">مسح الملاحظة</string>
+    <string name="update_note">تحديث الملاحظة</string>
+    <string name="notConnection">لايوجد اتصال انترنت</string>
+    <string name="exit">خروج</string>
+    <string name="help">مساعدة</string>
+    <string name="setting">الأعدادات</string>
+    <string name="MassageEmpty">من فضلك ادخل الايميل وكلمة السر!</string>
+    <string name="massageVerify">يرجى التحقق من حسابك...</string>
+    <string name="enter_email">أدخل الايميل</string>
+    <string name="enter_password">ادخل كلمة السر</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="register_here">سجل من هنا...</string>
+    <string name="sign_up">أنشاء حساب</string>
+    <string name="language">اللغة</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="forgot_password">هل نسيت كلمة السر؟</string>
+    <string name="we_just_need_your_registered_email_address_to_send_you_password_reset">نحتاج فقط إلى عنوان بريدك الإلكتروني المسجل لنرسل لك إعادة تعيين كلمة المرور</string>
+    <string name="reset_password">
+إعادة تعيين كلمة المرور</string>
+    <string name="don_t_have_an_account">ليس لديك حساب؟</string>
+    <string name="resetEmptyMsg">
+الرجاء إدخال عنوان البريد الإلكتروني الخاص بك</string>
+    <string name="resetEmailMsgSuccess">
+أرسل بريد إلكتروني إعادة تعيين بنجاح</string>
+    <string name="resetEmailMsgFail">فشل إعادة تعيين البريد الإلكتروني</string>
+    <string name="text_help">
+        هذا التطبيق يكون تطبيق ملاحظات انت تستطيع تجعل حساب عليه وبيستخدم فيه قاعدة بيانات اونلاين انت تستطيع ايضا إضافة أو مسح أو تحديث ملاحظه تستطيع تدخل الى أكثر من حساب كل حساب لديه معلوماته الخاصة بيه وكمان يدعم إعادة تعيين كلمة السر
+    </string>
+    <string name="ok">موافق</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="changedArabic">تم تغيير اللغة الى العربية </string>
+    <string name="changedEnglish">تم تغيير اللغة الى الانجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الانجليزية</string>
+    <string name="selectLangauge">من فضلك اختار اللغة</string>
+
+</resources>

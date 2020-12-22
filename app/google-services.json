@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207098039842",
+    "firebase_url": "https://notes-fafcc.firebaseio.com",
+    "project_id": "notes-fafcc",
+    "storage_bucket": "notes-fafcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207098039842:android:6ab7d7f0618b8f7df6c47b",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207098039842-8k0c1prij7lrfdb9onidla55tl3iv17c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notes",
+            "certificate_hash": "178af391de3ee01c20b91f5089c73b310e467350"
+          }
+        },
+        {
+          "client_id": "207098039842-q11k4mhv10u741k7eoqf6amh93sge76g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_jmOBIAccLxElFT-jEykBNZ4wLBF2Wuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207098039842-q11k4mhv10u741k7eoqf6amh93sge76g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
